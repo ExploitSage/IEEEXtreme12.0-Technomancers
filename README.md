@@ -4,10 +4,10 @@ Challenge Submissions for the IEEEXtreme 12.0 24-Hour Programming Competition fo
 ## [Technomancers' Competition Timelapse](https://www.youtube.com/watch?v=nKsjV7qJ13A)
 [![IEEEXtreme 12.0 Technomancers Timelapse](http://img.youtube.com/vi/nKsjV7qJ13A/0.jpg)](https://www.youtube.com/watch?v=nKsjV7qJ13A)
 
-## Ranking (Unofficial)
-* World: 190 of 2105
-* United States: 16 of 145
-* Southwestern US: ? of ?
+## Ranking
+* World: 164 of 2608
+* United States: 16 of 188
+* Southwestern US: 3 of 22
 * Louisiana Tech Univ: 1 of 6
 
 ### 100% Submissions
